@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1772382460 source:c:\users\cheyenne\documents\hell\data structures and algorithms - dsa\adt guide\linked list\linkedlist_variation 2\functions.c
+	"functions.h"
+	<stdio.h>
+	<stdlib.h>
+
+1772382101 c:\users\cheyenne\documents\hell\data structures and algorithms - dsa\adt guide\linked list\linkedlist_variation 2\functions.h
+
+1772382370 source:c:\users\cheyenne\documents\hell\data structures and algorithms - dsa\adt guide\linked list\linkedlist_variation 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+
