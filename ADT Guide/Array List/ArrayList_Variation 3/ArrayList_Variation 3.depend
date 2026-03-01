@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1772359979 source:c:\users\cheyenne\documents\hell\data structures and algorithms - dsa\adt guide\array list\arraylist_variation 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+
+1772354145 c:\users\cheyenne\documents\hell\data structures and algorithms - dsa\adt guide\array list\arraylist_variation 3\functions.h
+
+1772359762 source:c:\users\cheyenne\documents\hell\data structures and algorithms - dsa\adt guide\array list\arraylist_variation 3\functions.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+
