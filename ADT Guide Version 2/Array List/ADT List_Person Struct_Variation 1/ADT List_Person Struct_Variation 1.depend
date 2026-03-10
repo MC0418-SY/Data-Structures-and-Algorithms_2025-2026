@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1773153986 source:c:\users\cheyenne\documents\hell\data structures and algorithms - dsa\adt guide version 2\array list\adt list_person struct_variation 1\functions.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+
+1772807236 c:\users\cheyenne\documents\hell\data structures and algorithms - dsa\adt guide version 2\array list\adt list_person struct_variation 1\functions.h
+
+1773154065 source:c:\users\cheyenne\documents\hell\data structures and algorithms - dsa\adt guide version 2\array list\adt list_person struct_variation 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"functions.h"
+
