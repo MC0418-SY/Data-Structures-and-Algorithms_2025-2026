@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1776015563 source:c:\users\cheyenne\documents\hell\data structures and algorithms - dsa\mario kart reverse engineered\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cursor.h"
+	"queue.h"
+
+1776013924 c:\users\cheyenne\documents\hell\data structures and algorithms - dsa\mario kart reverse engineered\cursor.h
+
+1776013924 source:c:\users\cheyenne\documents\hell\data structures and algorithms - dsa\mario kart reverse engineered\cursor.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cursor.h"
+
+1776015593 source:c:\users\cheyenne\documents\hell\data structures and algorithms - dsa\mario kart reverse engineered\queue.c
+	<stdio.h>
+	<string.h>
+	"queue.h"
+
+1776014389 c:\users\cheyenne\documents\hell\data structures and algorithms - dsa\mario kart reverse engineered\queue.h
+	"cursor.h"
+
