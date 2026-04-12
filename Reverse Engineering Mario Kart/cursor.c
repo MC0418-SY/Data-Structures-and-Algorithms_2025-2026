@@ -124,11 +124,7 @@ void deleteAllOccurrence(int *L, VirtualList *V, Player racer) {
         printf("[WARN] Racer '%s' not found in the list.\n", racer.handle.accountName);
 }
 
-/* -----------------------------------------------------------------------
-   display
-   Prints every racer in the list with their rank, account name, character,
-   car, and current coin count.
-   ----------------------------------------------------------------------- */
+
 void display(int L, VirtualList V) {
     if (L == -1) {
         printf("(empty list)\n");
