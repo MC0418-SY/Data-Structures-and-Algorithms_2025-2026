@@ -52,7 +52,7 @@ HOWEVER! Ms. Janie was suddenly whisked away to a surprise holiday getaway with 
 ## NOTE
  
 
-- Radius. a straight line from the center of the circle to the edge
+- Radius. a straight line from the center of the circle to the edge<br>
 ![<Illustration of a radius line>](_images/image.png)<br>
 - A typical cake looks like this
  ![Drawing of a cake by Ms. Janie](_images/image-1.png)
