@@ -17,11 +17,4 @@ dequeue always removes from the front (slot [0]), and every remaining item shift
 Displacement — this is the Mario Kart behaviour. When the inventory is full and you pick up a new item, the oldest item (slot [0]) gets bumped out and the new one takes the rear. Try adding 4 items in a row to see the orange flash.
 isEmpty / isFull update live — these map directly to isInventoryEmpty() and isInventoryFull() in your queue.c.
 
-## How to Clone a Specific Directory from a Github Repository
-```
-git clone --filter=blob:none --no-checkout https://github.com/MC0418-SY/Data-Structures-and-Algorithms_2025-2026.git
-cd Data-Structures-and-Algorithms_2025-2026
-git sparse-checkout init --cone
-git sparse-checkout set "Reverse Engineering Mario Kart"
-git checkout
-```
+
